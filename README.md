@@ -2,7 +2,7 @@
 
 Public privacy policy for YuceRadius (`com.yuce.radius`), in English and Turkish.
 
-Published URL: https://yusaacikalin.github.io/yuce-radius-privacy/
+Published URL: https://yusaacikalin.github.io/yuce-radius-privacy-policy/
 
 `index.html` is a standalone, responsive document with no external scripts, fonts, analytics or ads. GitHub Pages publishes the root of `main`.
 
